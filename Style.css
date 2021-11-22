@@ -79,7 +79,7 @@ html{
 #About{
     display: flex;
     flex-direction: column;
-    height: 8500px;
+    height: 850px;
 }
 #About h1{
     color: black;
