@@ -157,7 +157,8 @@ html{
 }
 .box a:hover{
     transform: scale(1.1);
-    color: saddlebrown;   
+    color: saddlebrown;
+    cursor: pointer;
 }
 /* Contact section */
 #Contact{
