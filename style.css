@@ -289,7 +289,6 @@ footer p{
     display: flex;
 }
 .sr-only {
-  position: absolute;
   width: 1px;
   height: 1px;
   padding: 0;
