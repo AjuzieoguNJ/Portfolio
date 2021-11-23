@@ -94,7 +94,7 @@ html{
     align-items: center;
     justify-content: space-around;
     position: absolute;
-    bottom: -50px;
+    bottom: -30px;
 }
 @keyframes Bird{
     0%{
@@ -108,7 +108,7 @@ html{
         opacity: 1;
      }
     100%{
-        transform: translateY(-120vh);
+        transform: translateY(-80vh);
         opacity: 0;
      }
 }
