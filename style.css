@@ -108,7 +108,7 @@ html{
         opacity: 1;
      }
     100%{
-        transform: translateY(-50vh);
+        transform: translateY(-120vh);
         opacity: 0;
      }
 }
