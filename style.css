@@ -282,7 +282,7 @@ footer p{
     justify-content: center;
     align-items: center;
     background-color: black;
-    color: gray
+    color: purple
     margin: 20px 10px;
     border-radius: 50%;
 }
@@ -293,7 +293,6 @@ footer p{
   position: absolute;
   width: 1px;
   height: 1px;
-  background-color: saddlebrown;
   padding: 0;
   margin: -1px;
   overflow: hidden;
