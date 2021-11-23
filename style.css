@@ -281,7 +281,7 @@ footer p{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: blue;
+    background-color: gray;
     margin: 20px 10px;
     border-radius: 50%;
 }
