@@ -233,13 +233,13 @@ html{
     outline: none;
     border-radius: 25px;
 }
-.name{
+.label name{
     color: white;
 }
-.email{
+.label email{
     color: white;
 }
-.message{
+.label message{
     color: white;
 }
 #message{
