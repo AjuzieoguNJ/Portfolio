@@ -10,18 +10,11 @@ html{
 .navbar{
     display: flex;
     justify-content: center;
+    background-color: black;
     align-items: center;
     height: 50px;
     position: sticky;
     top: 0;
-}
-.navbar::before{
-    content: "";
-    position: absolute;
-    background-color: black;
-    height: 100%;
-    width: 100%;
-    z-index: -1;
 }
 
 .navbar ul{
