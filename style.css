@@ -233,6 +233,15 @@ html{
     outline: none;
     border-radius: 25px;
 }
+.name{
+    color: white;
+}
+.email{
+    color: white;
+}
+.message{
+    color: white;
+}
 #message{
     margin: 15px;
     padding: 10px;
